@@ -1,0 +1,2 @@
+# TemplateRepository
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6a46dba2cb348d4a29225c445216df6)](https://app.codacy.com/gh/HoangBachLeLe/TemplateRepository?utm_source=github.com&utm_medium=referral&utm_content=HoangBachLeLe/TemplateRepository&utm_campaign=Badge_Grade_Settings)
